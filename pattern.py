@@ -1,6 +1,6 @@
 # Author: Moksh Upadhyay
 # Date: 21/03/2021
-# Print the following pattern
+# Print the following patternrint 
 # * * *
 # *   *
 # * * *
